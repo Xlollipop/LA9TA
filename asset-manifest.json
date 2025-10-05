@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/LA9TA/static/js/main.1c16f9b5.js",
+    "main.js": "/LA9TA/static/js/main.cbf2dc18.js",
     "index.html": "/LA9TA/index.html",
-    "main.1c16f9b5.js.map": "/LA9TA/static/js/main.1c16f9b5.js.map"
+    "main.cbf2dc18.js.map": "/LA9TA/static/js/main.cbf2dc18.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c16f9b5.js"
+    "static/js/main.cbf2dc18.js"
   ]
 }
